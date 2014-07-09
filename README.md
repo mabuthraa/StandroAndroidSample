@@ -1,4 +1,4 @@
 StandroAndroidSample
 ====================
 
-sample
+sample only
